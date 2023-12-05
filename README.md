@@ -1,1 +1,1 @@
-# Pizza-Store
+# Pizza Store
